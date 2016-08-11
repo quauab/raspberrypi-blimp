@@ -47,6 +47,7 @@ router.get('/', function(req, res, next) {
 
 router.post('/left', function(req, res, next) {
   console.log('Should enable left motor');
+  forwards(motor1);
   res.status(200).json({ test: 'message' })
 });
 
