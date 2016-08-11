@@ -1,7 +1,7 @@
 # raspberrypi-blimp
 RC Blimp using Raspberry Pi and Explorer pHat
 
-by popular demand
+by unpopular demand
 
 ## Instructions
 *   install dependencies:
